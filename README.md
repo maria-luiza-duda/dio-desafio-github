@@ -1,1 +1,1 @@
-# dio-desafio-github
+# Repositório de projeto git (desafio para reforçar conhecimentos)
