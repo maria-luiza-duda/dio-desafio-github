@@ -1,3 +1,4 @@
 # Bootstrap
 
 ## É um framework muito utilizado para o desenvolvimento front-end
+## bootstrap-icons
